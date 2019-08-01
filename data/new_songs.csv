@@ -1,0 +1,4 @@
+,Artist,Album,Released,Length,Genre,Music Recording Sales (millions),Claimed Sales (millions),Released.1,Soundtrack,Rating
+0,Michael Jackson,Thriller,1982,0:42:19,"pop, rock, R&B",46.0,65,30-Nov-82,,10.0
+1,AC/DC,Back in Black,1980,0:42:11,hard rock,26.1,50,25-Jul-80,,9.5
+3,Whitney Houston,The Bodyguard,1992,0:57:44,"R&B, soul, pop",27.4,44,17-Nov-92,Y,8.5
