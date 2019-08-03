@@ -77,13 +77,13 @@ Install the required packages into _pyds_Python environment using conda.
 conda env create -f environment.yml
 ```
 
-## 3:Test environment
-To make sure everything was installed correctly, open a terminal, and change its directory (cd) so that your working directory is the workshop  directory _pyds_ you downloaded. Then enter the following:
+## 3:Check environment
+To make sure everything was installed correctly, open a terminal, and change its directory (cd) so that your working directory is the workshop directory _pyds_ you cloned or downloaded. Then enter the following:
 ```
 python check_environment.py
 ```
 If everything is OK, you will get the following message:
-> Your workshop environment is fully set up
+> Your workshop environment is set up
 
 ## 4: Start JupyterLab using:
 Start JupyterLab using:
