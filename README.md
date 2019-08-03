@@ -85,7 +85,7 @@ python check_environment.py
 If everything is OK, you will get the following message:
 > Your workshop environment is set up
 
-## 4: Start JupyterLab using:
+## 4: Start JupyterLab
 Start JupyterLab using:
 ```
 jupyter lab
@@ -116,12 +116,12 @@ You may access JupyterLab by entering the notebook server’s URL into the brows
 - [JupyterLab: Web-based development environment for Jupyter Notebooks](https://jupyter.org/)
 - [Python for Data Science: Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
 
-## License
+# License
 
-### Workshop Code
+## Workshop Code
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Workshop Materials
+## Workshop Materials
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
