@@ -72,12 +72,12 @@ git clone https://github.com/aymanibrahim/pyds.git
 cd pyds
 ```
 ### 2.3: Create Python environment & install packages
-Install the required packages into _pyds_Python environment using conda.
+Install the required packages into _pyds_ Python environment using conda.
 ```
 conda env create -f environment.yml
 ```
 
-## 3:Check environment
+## 3: Check environment
 To make sure everything was installed correctly, open a terminal, and change its directory (cd) so that your working directory is the workshop directory _pyds_ you cloned or downloaded. Then enter the following:
 ```
 python check_environment.py
