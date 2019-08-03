@@ -37,7 +37,7 @@ The workshop will cover core topics:
 - Objects 
 - Classes
 
-## [04 Working with Data](https://github.com/aymanibrahim/pyds/blob/master/notebooks/04_Data.ipynb)
+## [04 Working with Data](https://github.com/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb)
 - Reading files with open
 - Writing files with open
 - Loading data with pandas
