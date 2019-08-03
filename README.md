@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aymanibrahim/pyds/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aymanibrahim/pyds/master)
 
 # Why
 For people who struggle to start in data science with Python
@@ -82,16 +82,25 @@ To make sure everything was installed correctly, open a terminal, and change its
 ```
 python check_environment.py
 ```
+If everything is OK, you will get the following message:
+> Your workshop environment is fully set up
 
-## 4: Attend
-we expect participants to attend 
-[Python for Data Science Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
+## 4: Start JupyterLab using:
+Start JupyterLab using:
+```
+jupyter lab
+```
+JupyterLab will open automatically in your browser.
 
-# Instructor
+You may access JupyterLab by entering the notebook server’s URL into the browser.
+
+
+# Workshop Instructor
 ## Ayman Ibrahim, PMP
-- [GitHub](https://github.com/aymanibrahim)
+
 - [LinkedIn](https://www.linkedin.com/in/aymanibrahim/)
 - [Kaggle](https://www.kaggle.com/aymani)
+- [GitHub](https://github.com/aymanibrahim)
 - [Twitter](https://twitter.com/AymanIbrahim)
 - [Facebook](https://www.facebook.com/ayman.ibrahim.awad)
 
