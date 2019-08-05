@@ -132,7 +132,7 @@ conda deactivate
 - [Python for Data Science: Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
 
 # Contributing
-Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/aymanibrahim/pyds/blob/master/contributing.md).
+Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/aymanibrahim/pyds/blob/master/CONTRIBUTING.md).
 
 # License
 
