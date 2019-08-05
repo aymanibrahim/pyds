@@ -13,5 +13,5 @@ else:
         print('Your workshop environment is not yet fully set up:')
         print('\n'.join(bad))
     else:
-        print("Your workshop environment is fully set up")
+        print("Your workshop environment is set up")
 
