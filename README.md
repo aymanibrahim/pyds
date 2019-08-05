@@ -56,36 +56,43 @@ Install miniconda or install the (larger) Anaconda distribution
 
 [Install Python 3.7 using Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
-> OR [Install Ananconda for Python 3.7](https://www.anaconda.com/distribution/)
+OR [Install Python 3.7 using Ananconda](https://www.anaconda.com/distribution/)
 
 ## 2: Setup
 
-### 2.1: Download workshop materials
-Clone the repo
+### 2.1: Download workshop code & materials
+Clone the repository
 ```
 git clone https://github.com/aymanibrahim/pyds.git
 ```
-> OR [Download the repository as a .zip file](https://github.com/aymanibrahim/pyds/archive/master.zip)
+OR [Download the repository as a .zip file](https://github.com/aymanibrahim/pyds/archive/master.zip)
 
 ### 2.2: Change directory to pyds
+Change current directory to **pyds** directory
 ```
 cd pyds
 ```
-### 2.3: Create Python environment & install packages
-Install the required packages into _pyds_ Python environment using conda.
+### 2.3: Install Python with required packages
+Install Python 3.7 with the required packages into an environment named _pyds_  as per [environment.yml](https://github.com/aymanibrahim/pyds/blob/master/environment.yml) YAML file.
 ```
 conda env create -f environment.yml
 ```
+When conda asks if you want to proceed, type "y" and press Enter.
 
-## 3: Check environment
-To make sure everything was installed correctly, open a terminal, and change its directory (cd) so that your working directory is the workshop directory _pyds_ you cloned or downloaded. Then enter the following:
+## 3: Activate environment
+Change the current default environment (_base_) into _pyds_ environment.
+```
+conda activate pyds
+```
+## 4: Check installation
+Use [check_environment.py](https://github.com/aymanibrahim/pyds/blob/master/check_environment.py) script to make sure everything was installed correctly, open a terminal, and change its directory (cd) so that your working directory is the workshop directory _pyds_ you cloned or downloaded. Then enter the following:
 ```
 python check_environment.py
 ```
 If everything is OK, you will get the following message:
 > Your workshop environment is set up
 
-## 4: Start JupyterLab
+## 5: Start JupyterLab
 Start JupyterLab using:
 ```
 jupyter lab
@@ -94,6 +101,14 @@ JupyterLab will open automatically in your browser.
 
 You may access JupyterLab by entering the notebook server’s URL into the browser.
 
+## 6: Stop JupyterLab
+Press **CTRL + C** in the terminal to stop JupyterLab.
+
+## 7: Deactivate environment
+Change the current environment (_pyds_) into the previous environment.
+```
+conda deactivate
+```
 
 # Workshop Instructor
 ## Ayman Ibrahim, PMP
