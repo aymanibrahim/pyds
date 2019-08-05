@@ -63,7 +63,7 @@ OR [Install Python 3.7 using Ananconda](https://www.anaconda.com/distribution/)
 ### 2.1: Download workshop code & materials
 Clone the repository
 ```
-git clone https://github.com/aymanibrahim/pyds.git
+git clone git@github.com:aymanibrahim/pyds.git
 ```
 OR [Download the repository as a .zip file](https://github.com/aymanibrahim/pyds/archive/master.zip)
 
@@ -130,6 +130,9 @@ conda deactivate
 - [Jupyter Notebook: Web application to create documents with code, equations, visualizations and text](https://jupyter.org/)
 - [JupyterLab: Web-based development environment for Jupyter Notebooks](https://jupyter.org/)
 - [Python for Data Science: Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
+
+# Contributing
+Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/aymanibrahim/pyds/blob/master/contributing.md).
 
 # License
 
