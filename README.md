@@ -1,3 +1,7 @@
+## Quick Start
+
+The workshop code is available as [Jupyter notebooks](https://github.com/aymanibrahim/pyds/tree/master/notebooks). You can run the notebooks in the cloud (no installation required) by clicking the "launch binder" button:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aymanibrahim/pyds/master)
 
 # Why
