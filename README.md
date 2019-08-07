@@ -12,7 +12,7 @@ This hands-on in-person workshop is based on
 [Python for Data Science Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
 
 Learn how to create your first Python scripts
-and perform basic hands-on data analysis using  Jupyter-based environment.
+and perform basic hands-on data analysis using Jupyter-based environment.
 
 
 # [Outline](https://github.com/aymanibrahim/pyds/blob/master/notebooks/00_Outline.ipynb)
