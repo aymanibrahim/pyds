@@ -15,10 +15,10 @@ Learn how to create your first Python scripts
 and perform basic hands-on data analysis using Jupyter-based environment.
 
 
-# [Outline](https://github.com/aymanibrahim/pyds/blob/master/notebooks/00_Outline.ipynb)
+# [Outline](https://github.com/aymanibrahim/pyds/blob/master/notebooks/00_Outline.ipynb) 
 The workshop will cover core topics:
 
-## [01 Basics](https://github.com/aymanibrahim/pyds/blob/master/notebooks/01_Basics.ipynb)
+## [01 Basics](https://github.com/aymanibrahim/pyds/blob/master/notebooks/01_Basics.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google/github.com/aymanibrahim/pyds/blob/master/notebooks/01_Basics.ipynb)
 - Hello World
 - Comments
 - Errors
@@ -27,13 +27,13 @@ The workshop will cover core topics:
 - Variables
 - Strings
 
-## [02 Data Structures](https://github.com/aymanibrahim/pyds/blob/master/notebooks/02_Data_Structures.ipynb)
+## [02 Data Structures](https://github.com/aymanibrahim/pyds/blob/master/notebooks/02_Data_Structures.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google/github.com/aymanibrahim/pyds/blob/master/notebooks/02_Data_Structures.ipynb)
 - Tuples
 - Lists
 - Sets
 - Dictionaries
 
-## [03 Fundamentals](https://github.com/aymanibrahim/pyds/blob/master/notebooks/03_Fundamentals.ipynb)
+## [03 Fundamentals](https://github.com/aymanibrahim/pyds/blob/master/notebooks/03_Fundamentals.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google/github.com/aymanibrahim/pyds/blob/master/notebooks/03_Fundamentals.ipynb)
 - Conditions 
 - Branching
 - Loops
@@ -41,13 +41,13 @@ The workshop will cover core topics:
 - Objects 
 - Classes
 
-## [04 Working with Data](https://github.com/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb)
+## [04 Working with Data](https://github.com/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google/github.com/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb)
 - Reading files with open
 - Writing files with open
 - Loading data with pandas
 - Working with and Saving data with pandas
 
-## [05 Arrays](https://github.com/aymanibrahim/pyds/blob/master/notebooks/05_Arrays.ipynb)
+## [05 Arrays](https://github.com/aymanibrahim/pyds/blob/master/notebooks/05_Arrays.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google/github.com/aymanibrahim/pyds/blob/master/notebooks/05_Arrays.ipynb)
 - Creating and Manipulating 1D & 2D Arrays
 - Array Operations
 
