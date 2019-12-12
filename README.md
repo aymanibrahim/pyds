@@ -1,3 +1,5 @@
+![](./images/pyds-1.png)
+
 ## Quick Start
 
 The workshop code is available as [Jupyter notebooks](https://github.com/aymanibrahim/pyds/tree/master/notebooks). You can run the notebooks in the cloud (no installation required) by clicking the "launch binder" button:
