@@ -21,6 +21,11 @@ and perform basic hands-on data analysis using Jupyter-based environment.
 The workshop will cover core topics:
 
 ## [01 Basics](https://github.com/aymanibrahim/pyds/blob/master/notebooks/01_Basics.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/pyds/blob/master/notebooks/01_Basics.ipynb)
+
+Types            |  Variables | Strings
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/01_Basics/02_types/02_get_type.png)  |  ![](images/01_Basics/04_variables/07_convert_min_num_hr_num.png)|  ![](images/01_Basics/05_strings/18_upper.png)
+
 - Hello World
 - Comments
 - Errors
@@ -30,12 +35,23 @@ The workshop will cover core topics:
 - Strings
 
 ## [02 Data Structures](https://github.com/aymanibrahim/pyds/blob/master/notebooks/02_Data_Structures.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/pyds/blob/master/notebooks/02_Data_Structures.ipynb)
+
+Tuple                      |  Set                      | Dictionary
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/02_Data_Structures/01_Tuples/01_create_tuple.png)  |  ![](images/02_Data_Structures/01_Tuples/01_create_tuple.png)|  ![](images/02_Data_Structures/04_Dictionaries/01_dictionary.png)
+
 - Tuples
 - Lists
 - Sets
 - Dictionaries
 
 ## [03 Fundamentals](https://github.com/aymanibrahim/pyds/blob/master/notebooks/03_Fundamentals.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/pyds/blob/master/notebooks/03_Fundamentals.ipynb)
+
+Condition                      |  Loop                      | Class
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/03_Fundamentals/01_Conditions/05_equality_True.png)  |  ![](images/03_Fundamentals/03_Loops/12_for_enumerate_2.png)|  ![](images/03_Fundamentals/06_Classes/02_attributes.png)
+
+
 - Conditions 
 - Branching
 - Loops
@@ -44,12 +60,22 @@ The workshop will cover core topics:
 - Classes
 
 ## [04 Working with Data](https://github.com/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/pyds/blob/master/notebooks/04_Working_with_Data.ipynb)
+
+Read file                       |  pandas DataFrame                     | Specify columns 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/04_Data/01_Read_files/11_loop_print_each_line.png)  |  ![](images/04_Data/03_Load_pandas/03_rows_columns.png)|  ![](images/04_Data/04_Save_pandas/05_select_specified_columns_2.png)
+
 - Reading files with open
 - Writing files with open
 - Loading data with pandas
 - Working with and Saving data with pandas
 
 ## [05 Arrays](https://github.com/aymanibrahim/pyds/blob/master/notebooks/05_Arrays.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aymanibrahim/pyds/blob/master/notebooks/05_Arrays.ipynb)
+
+1D Array                      |  2D Array                      | Array slicing
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/05_Arrays/01_Numpy_1D/01_create_1_d_array.png)  |  ![](images/05_Arrays/02_Numpy_2D/04_size.png)|  ![](images/05_Arrays/02_Numpy_2D/07_slicing.png)
+
 - Creating and Manipulating 1D & 2D Arrays
 - Array Operations
 
