@@ -10,6 +10,8 @@ The workshop code is available as [Jupyter notebooks](https://github.com/aymanib
 For people who struggle to start in data science with Python
 
 # Description
+![](./images/pyds-2.png)
+
 This hands-on in-person workshop is based on 
 [Python for Data Science Course by IBM Cognitive Class](https://cognitiveclass.ai/courses/python-for-data-science/)
 
