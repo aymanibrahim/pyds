@@ -40,7 +40,7 @@ Types            |  Variables | Strings
 
 Tuple                      |  Set                      | Dictionary
 :-------------------------:|:-------------------------:|:-------------------------:
-![](images/02_Data_Structures/01_Tuples/01_create_tuple.png)  |  ![](images/02_Data_Structures/01_Tuples/01_create_tuple.png)|  ![](images/02_Data_Structures/04_Dictionaries/01_dictionary.png)
+![](images/02_Data_Structures/01_Tuples/01_create_tuple.png)  |  ![](images/02_Data_Structures/03_Sets/02_create_set.png)|  ![](images/02_Data_Structures/04_Dictionaries/01_dictionary.png)
 
 - Tuples
 - Lists
